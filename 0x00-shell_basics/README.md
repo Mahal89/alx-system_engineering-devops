@@ -1,1 +1,2 @@
-shell basics repository
+#!/bin/bash\
+shell basics repository\
